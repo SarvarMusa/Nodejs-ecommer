@@ -81,6 +81,3 @@ REDIS_URL=redis://localhost:6379
 | `DELETE` | `/product/:id`      | Delete a product                | Yes (Admin)   |
 | `GET`  | `/order`              | Get user orders                 | Yes           |
 | `POST` | `/order`              | Place a new order               | Yes           |
-
-## Screenshots
-*(Add screenshots of the storefront and admin panel here)*
